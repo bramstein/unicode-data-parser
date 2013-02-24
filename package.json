@@ -6,6 +6,6 @@
   "repository": "",
   "author": "Bram Stein (b.l.stein@gmail.com) <http://www.bramstein.com>",
   "dependencies": {
-    "characterset": "=1.1.0"
+    "characterset": "=1.1.1"
   }
 }
