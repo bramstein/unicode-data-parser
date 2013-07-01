@@ -1,6 +1,6 @@
 {
   "name": "unicode-data-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple parser for the Unicode data format.",
   "main": "lib/parse.js",
   "bin": {
