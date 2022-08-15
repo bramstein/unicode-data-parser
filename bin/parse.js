@@ -1,4 +1,4 @@
-var parser = require('../lib/parse');
+import parser from '../lib/parse.js';
 
 parser.parseFile(process.argv[2], function (err, data) {
   if (err) {

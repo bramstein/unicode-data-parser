@@ -3,12 +3,13 @@
   "version": "0.1.1",
   "description": "A simple parser for the Unicode data format.",
   "main": "lib/parse.js",
+  "type": "module",
   "bin": {
-    "unicode-data-parser": "./bin/parse"
+    "unicode-data-parser": "./bin/parse.js"
   },
   "repository": "git@github.com:bramstein/unicode-data-parser.git",
   "author": "Bram Stein (b.l.stein@gmail.com) <http://www.bramstein.com>",
   "dependencies": {
-    "characterset": "=1.1.1"
+    "characterset": "=2.0.0"
   }
 }
